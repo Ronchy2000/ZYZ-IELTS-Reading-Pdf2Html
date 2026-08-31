@@ -1,3 +1,18 @@
+# 写在前面：
+
+谢谢大家的关注，本项目是一个不成熟的半成品。项目的初衷是，为了将最新的pdf转化为html即网页的形式，由于当时还在备考阶段，所以整体上比较粗糙。
+
+后来得知一位与ZYZ老师合作的马同学一直在维护每月最新的雅思阅读题目，项目地址为：[IELTS-practice
+](https://github.com/sallowayma-git/IELTS-practice)，请大家移步至该项目进行学习。
+
+感谢ZYZ老师以及上述仓库作者的辛勤付出，我也是万千受益于题库的“烤鸭”其中的一员，很幸运能遇到如此无私奉献的老师和同学，使我最终顺利通过雅思考试。
+最后附上一些本项目的出发点以及开源作者的一些思考，如果你也对本类项目感兴趣，欢迎来信、交流！
+
+<img width="921" height="529" alt="image" src="https://github.com/user-attachments/assets/17833dd6-df9f-4f8e-a522-585fdd1174f8" />
+
+<img width="1469" height="639" alt="image" src="https://github.com/user-attachments/assets/5e1596ea-df48-4044-85c0-86208e41378e" />
+
+
 # 项目简介
 
 将 IELTS 阅读类 PDF 批量转换为可练习的 HTML：左侧文章、右侧题目、底部导航、右下角计时器，提交后再显示答案与评分。
